@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 date: 2027-02-15
 venue: 'Published at FVEPH-S0007 Systems Symposium'
+codeurl: 'https://github.com/geni91195-commits/fv-eph-s0007-finetune'
 ---
 
 Task-owned publication record for FVEPH-S0007: Reliable Fine-Tuning for Sparse Feedback.
